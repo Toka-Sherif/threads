@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1607026430 source:c:\users\tokay\documents\term(7)\os\merge_sort_normal_modified\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1607288316 source:c:\users\tokay\documents\term(7)\os\lab2\merge_sort_normal_modified\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1607288316 source:c:\users\tokay\documents\term(7)\os\lab2\5492_lab2\merge_sort_normal_modified\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
